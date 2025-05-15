@@ -5,7 +5,7 @@ def reading(file):
 
 
 def main():
-    reading(r'./Sample.txt')
+    reading(r'../Sample.txt')
 
 if __name__ == '__main__':
     main()
